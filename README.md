@@ -10,12 +10,14 @@ Exploratory Data Analysis (EDA) is a vital part of this research that aims to di
 
 # Recommendations:
 Based on the information gained by EDA and prediction models:
-# Targeted Inspections:
+Targeted Inspections:
 Focus greater resources on checking areas and buildings with a high frequency of previous infractions. Predictive models can help to prioritize these examinations.
-Enhanced Training Programs: For building managers and contractors in high-violation areas, providing more rigorous training on safety standards and compliance may prevent future violations.
-# Policy Changes:
+Enhanced Training Programs:
+For building managers and contractors in high-violation areas, providing more rigorous training on safety standards and compliance may prevent future violations.
+Policy Changes:
 Consider changing regulations or implementing harsher enforcement procedures in places where certain types of infractions are common, as identified by our analysis.
-Data-Driven Decision Making: The DOB should continue to use machine learning algorithms to anticipate and prevent safety infractions proactively, resulting in better building practices throughout the city.
+Data-Driven Decision Making:
+The DOB should continue to use machine learning algorithms to anticipate and prevent safety infractions proactively, resulting in better building practices throughout the city.
 
 # Conclusion:
 The analysis of DOB safety infractions has provided useful insights into the trends and factors that influence building safety compliance in New York City. We were able to forecast violations with reasonable accuracy using machine learning models, implying that predictive analytics can play an important role in enhancing building safety. Moving forward, the DOB can use these data-driven ways to maximize its resources, improve safety standards, and ultimately reduce the number of safety infractions in the city.
