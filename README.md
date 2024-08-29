@@ -1,3 +1,4 @@
+# Department of Buildings Safety Violations
 # Problem Statement:
 The New York City Department of Buildings (DOB) is in charge of overseeing the safety and integrity of construction and building operations throughout the city. However, the number and types of safety infractions registered by the agency varied significantly across locations, equipment, and building types. The goal of this research is to extract insights from the DOB Safety Violations dataset by recognizing trends in violation occurrences, determining their categories, and predicting future violations with machine learning algorithms. The ultimate goal is to make recommendations that can help the DOB enhance safety compliance and avoid future infractions.
 
